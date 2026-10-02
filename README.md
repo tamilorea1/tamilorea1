@@ -3,6 +3,7 @@
 - I enjoy the working out 🏋️‍♀️
 - Playing basketball ⛹️‍♂️
 - As well as playing chess
+- Currently learning more about the cloud using resources such as AWS & Azure.
 
 <!--
 **tamilorea1/tamilorea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
