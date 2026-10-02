@@ -1,5 +1,5 @@
 ## Hi my name is Tamilore (tah-mee-loh-re) and I am an aspiring Cloud security engineer 👋
-- Currently in my 3rd of Computer Science at the University of Calgary🦖
+- Currently in my 3rd year of Computer Science at the University of Calgary🦖
 - I enjoy the working out 🏋️‍♀️
 - Playing basketball ⛹️‍♂️
 - As well as playing chess
